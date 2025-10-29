@@ -1,17 +1,17 @@
 
 # Data Warehouse and Analytics Project
 
-##🌟 Introduction
+🌟 Introduction
 
 This project represents my complete hands-on journey in designing and implementing a modern Data Warehouse and Analytics Solution — from raw data ingestion to business-ready insights.
 
 I was truly inspired by the Data Warehouse Project by @Baraa Khatib Salkini
- 💡. His structured and practical approach to building data warehouses motivated me to replicate and extend his work to gain real-world, end-to-end experience in Data Engineering, ETL pipelines, and Analytics.
+ 💡. His structured and practical approach to building data warehouses motivated me to replicate the project to gain hands-on end-to-end experience in Data Engineering, ETL pipelines, and Analytics.
 
 Through this project, I explored how raw data transforms into valuable insights through efficient data modeling, ETL design, and multi-layered architecture. It was a great learning experience that helped me connect theory with real-world data engineering practices.
 
 ---
-##🎯 Project Objectives
+🎯 Project Objectives
 
 The goal of this project is to demonstrate an end-to-end data warehousing workflow using SQL Server — showcasing how to design, build, and optimize data pipelines for analytics and reporting.
 
